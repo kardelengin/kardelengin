@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I'm Kardelen, a Business Analyst 💻
+## I'm Kardelen, a Business Analyst 💻
 
 
 Welcome to my GitHub profile! I am a passionate Business Analyst with a strong background in Computer Engineering. 
@@ -16,5 +16,5 @@ Throughout my university journey, I have consistently been drawn to the intricac
 - Continuous learning and exploration of new technologies.
 - Developing personal projects.
 ## 🌐 Contact Me
-- [LinkedIn]:https://www.linkedin.com/in/kardelengin/
+- [LinkedIn](https://www.linkedin.com/in/kardelengin/)
 - Email: kardelengin@gmail.com
