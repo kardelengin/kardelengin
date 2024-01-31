@@ -12,7 +12,7 @@ Throughout my university journey, I have consistently been drawn to the intricac
 
 
 ## 🌱 Goals
--My first goal is to share my writings on business analysis in the coming periods
+- My first goal is to share my writings on business analysis in the coming periods
 - Continuous learning and exploration of new technologies.
 - Developing personal projects.
 ## 🌐 Contact Me
